@@ -7,7 +7,7 @@
 #
 # Generator:     sensirion-driver-generator 1.8.0
 # Product:       slf3x
-# Model-Version: 2.0.0
+# Model-Version: 2.0.1
 #
 """
 The transfer classes specify the data that is transferred between host and sensor. The generated transfer classes

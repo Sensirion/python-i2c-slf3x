@@ -22,7 +22,9 @@ keywords = [
     "Sensirion SLF3X",
     "I2C",
     "SLF3C-1300F",
+    "SLF3S-1300D",
     "SLF3S-1300F",
+    "SLF3S-0600D",
     "SLF3S-0600F",
     "SLF3S-4000B",
     ]
